@@ -1,0 +1,9 @@
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\bin\Debug\TestowanieWinforms.exe.config
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\bin\Debug\TestowanieWinforms.exe
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\bin\Debug\TestowanieWinforms.pdb
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\obj\Debug\TestowanieWinforms.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\obj\Debug\TestowanieWinforms.Form1.resources
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\obj\Debug\TestowanieWinforms.Properties.Resources.resources
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\obj\Debug\TestowanieWinforms.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\obj\Debug\TestowanieWinforms.exe
+C:\Users\Marcin\source\repos\TestowanieWinforms\TestowanieWinforms\obj\Debug\TestowanieWinforms.pdb
